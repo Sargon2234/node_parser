@@ -1,0 +1,31 @@
+{
+  "name": "node_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sargon2234/node_parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sargon2234/node_parser/issues"
+  },
+  "homepage": "https://github.com/Sargon2234/node_parser#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "image-downloader": "^3.3.0",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14",
+    "mysql": "^2.15.0",
+    "node-cors": "^1.0.0",
+    "node-fetch": "^1.7.3",
+    "pm2": "^2.9.1"
+  }
+}

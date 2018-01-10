@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "user": "",
+    "pass": "",
+    "name": "node-parser"
+  },
+  "env": {
+    "host": "http://localhost:3000"
+  }
+}
